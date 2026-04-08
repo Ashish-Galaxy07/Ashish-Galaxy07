@@ -1,4 +1,4 @@
-## Hi there !👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maindara+GD&size=35&duration=3000&pause=500&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ashish+Kumar;Welcome+to+my+GitHub+Profile)
 
 - 💙 Hi, I’m Ashish Kumar
 - 🤖 Tech Enthusiast
@@ -34,6 +34,7 @@
 # 📊 GitHub Stats:
 
 ![Streak](https://streak-stats.demolab.com?user=Ashish-Galaxy07&theme=tokyonight&hide_border=true)
+
 <!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashish-Galaxy07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
