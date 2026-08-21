@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maindara+GD&size=35&duration=3000&pause=500&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi+there!+;Welcome+to+my+GitHub+Profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maindara+GD&size=35&duration=3000&pause=500&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi+there!)
 
 - 💙 Hi, I’m Ashish Kumar
 - 🤖 Tech Enthusiast
